@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 👀 I’m interested in developing mobile games/apps
-- 🌱 I’m currently learning React Native and Unity 
-
+- 👀 I’m interested in developing mobile games with Unity and developing mobile apps with React Native.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
