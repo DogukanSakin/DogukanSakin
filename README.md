@@ -21,3 +21,11 @@
 <h3 align="left">My Individual Projects:</h3>
 <a href="https://play.google.com/store/apps/details?id=com.lofigradstudios.yourtechnologystartup" target="_blank">Your Technology Startup</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.lofigradstudios.shapereaction" target="_blank">Shape Reaction</a><br>
+
+## Stats
+
+<div align='center'>
+    <img align=top height="200" src="https://github-readme-stats.vercel.app/api?username=DogukanSakin&theme=radical&show_icons=true"/>
+    <img align=top height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanSakin&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+<div>
+
