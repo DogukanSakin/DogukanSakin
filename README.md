@@ -25,7 +25,7 @@
 ## Stats
 
 <div align='center'>
-    <img align=top height="200" src="https://github-readme-stats.vercel.app/api?username=DogukanSakin&theme=radical&show_icons=true"/>
-    <img align=top height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanSakin&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+    <img align=top height="175" src="https://github-readme-stats.vercel.app/api?username=DogukanSakin&theme=radical&show_icons=true"/>
+    <img align=top height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogukanSakin&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
 <div>
 
