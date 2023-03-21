@@ -18,10 +18,6 @@
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">My Individual Projects:</h3>
-<a href="https://play.google.com/store/apps/details?id=com.lofigradstudios.yourtechnologystartup" target="_blank">Your Technology Startup</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.lofigradstudios.shapereaction" target="_blank">Shape Reaction</a><br>
-
 ## Stats
 
 <div align='center'>
