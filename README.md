@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">Computer Engineering Student & Mobile Developer </h3>
 
- <img align="right" width='400' height='300' src='https://github.com/DogukanSakin/DogukanSakin/assets/86911611/6f9a79f8-8bd5-4cfb-80be-f0b36350c0eb'/>
+ <img align="right" width='300' height='200' src='https://github.com/DogukanSakin/DogukanSakin/assets/86911611/6f9a79f8-8bd5-4cfb-80be-f0b36350c0eb'/>
 
 
 - 👀 I’m interested in developing mobile apps with React Native and Swift
